@@ -1,6 +1,0 @@
-(undo-tree-save-format-version . 1)
-"da39a3ee5e6b4b0d3255bfef95601890afd80709"
-[nil nil nil nil (25800 2354 13886 167000) 0 nil]
-([nil nil ((")" . -13) (13 . 14) (")" . -13) (13 . 14) (1 . 14) (t 25800 2230 72960 452000)) nil (25800 2354 13883 792000) 0 nil])
-([nil current (("c" . -1) (undo-tree-id0 . -1) ("o" . -2) (undo-tree-id1 . -1) ("n" . -3) (undo-tree-id2 . -1) ("s" . -4) (undo-tree-id3 . -1) ("o" . -5) (undo-tree-id4 . -1) ("l" . -6) (undo-tree-id5 . -1) ("e" . -7) (undo-tree-id6 . -1) ("." . -8) (undo-tree-id7 . -1) ("l" . -9) (undo-tree-id8 . -1) ("o" . -10) (undo-tree-id9 . -1) ("g" . -11) (undo-tree-id10 . -1) ("(" . -12) (undo-tree-id11 . -1) (")" . -13) (undo-tree-id12 . -1) (undo-tree-id13 . 1) (undo-tree-id14 . -1) 14) nil (25800 2354 13877 995000) 0 nil])
-nil
