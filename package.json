@@ -1,0 +1,17 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Boot.dev guided project",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Attila Sedon",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
